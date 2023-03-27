@@ -21,10 +21,15 @@
 
 - Compiling, Training, and Evaluating the Model
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
+
 Three neurons and three layers were used for testing purposes.
+
 1st attempt 90, 40, 20
+
 2nd attempt 70, 15, 15
+
 3rd attempt 50, 25, 25
+
 Relu was selected because it runs faster. Sigmoid was choosen for testing purposes as well. The goal was to reach or exceed 75% accuracy.
 
 - Were you able to achieve the target model performance

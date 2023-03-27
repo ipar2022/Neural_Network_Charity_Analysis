@@ -1,8 +1,9 @@
 # Neural_Network_Charity_Analysis
 
 - Overview of the analysis
+- Alphabet Soup is a lending company. In order to determine if applicants will receive funding machine learning and neural networks were used. 
 
-- Results: Using bulleted lists and images to support your answers, address the following questions.
+- Results
 
 - Data Preprocessing
 - What variable(s) are considered the target(s) for your model?

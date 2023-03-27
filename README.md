@@ -32,7 +32,7 @@ Three neurons and three layers were used for testing purposes.
 
 Relu was selected because it runs faster. Sigmoid was choosen for testing purposes as well. The goal was to reach or exceed 75% accuracy.
 
-- Were you able to achieve the target model performance
+- Were you able to achieve the target model performance?
 
 No
 - What steps did you take to try and increase model performance?
